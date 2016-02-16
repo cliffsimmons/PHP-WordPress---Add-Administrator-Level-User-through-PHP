@@ -19,3 +19,5 @@ This PHP script allows one to create an administrator-level WordPress user throu
 5. Update/save the changes that you've made to the add-user.php file on the server.
 
 6. Once the add-user.php file has been updated on the server, open a web browser and visit the URL to your WordPress followed by /add-user.php. Example: http://domainofyourwordpresssite.com/add-user.php or http://domainofyoursite.com/your-wordpress-directory/add-user.php)
+ 
+7. From here, the page will let you know whether or not the new user creation was successful or now.
